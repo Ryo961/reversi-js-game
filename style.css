@@ -1,0 +1,15 @@
+.cell {
+  width: 60px;
+  height: 60px;
+  background-color: rgb(238, 211, 172);
+  text-align: center;
+  font-size: 40px;
+}
+
+.black {
+  color: black;
+}
+
+.white {
+  color: white;
+}/*# sourceMappingURL=style.css.map */
